@@ -1,0 +1,913 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+nav{
+    padding-bottom: 10px;
+    padding-top: 25px;
+    background: #FAF5F2;
+}
+
+
+.noname{
+    margin-left: -40px;
+}
+
+.list{
+    margin-left: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.list_item{
+    font-weight: 500;
+    font-size: 14px;
+    color: #303030;
+    margin-top: -20px;
+    margin-left: 60px;
+}
+
+
+.list_itemm{
+    margin-left: 80px;
+    margin-top: -20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #303030;
+}
+
+
+.probel{
+    position: absolute;
+    padding-top: -30px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #303030;
+}
+
+
+.lolo{
+    padding: 5px 38px;
+    border: none;
+    color: #FFFFFF;
+    margin-left: 70px;
+    margin-top: -30px;
+    background: #dc9d75;
+    border-radius: 15px;
+}
+
+
+.boot{
+    position: absolute;
+    margin-left: -30px;
+    
+    width: 800px;
+    height: 800px;
+    left: 123px;
+    top: 171px;
+}
+
+.boots{
+    margin-left: 530px;
+    position: absolute;
+    width: 800px;
+    height: 800px;
+    left: 123px;
+    top: 171px;
+}
+
+
+.misiss{
+    margin-top: 180px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+
+.megamen{
+    font-weight: 400;
+    font-size: 18px;
+    color: #303030;
+}
+
+
+.kolumb{
+    text-align: center;
+    font-weight: 300;
+    font-size: 12px;
+    color: #000000;
+}
+
+.game{
+    margin-left: 20px;
+}
+
+
+.btnprimary{
+    margin-top: 60px;
+    border: none;
+    color: #ffffff;
+    margin-left: 30px;
+    padding: 6px 40px;
+    background: linear-gradient(92.55deg, #D5B19B 10.05%, rgba(213, 177, 155, 0.71) 92.39%);
+    border-radius: 10px;
+}
+
+
+.gleman{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: -100px;
+    width: 440px;
+    height: 540px;
+    left: 571px;
+    top: 373px;
+}
+
+
+.glemannn{
+    position: absolute;
+    margin-top: 55px;
+    margin-left: -110px;
+    width: 440px;
+    height: 540px;
+    left: 1018px;
+    top: 375px;
+}
+
+
+.soulll{
+    position: absolute;
+    margin-top: 85px;
+    width: 910px;
+    height: 420px;
+    left: 477px;
+    top: 469px;
+}
+
+
+.poluchit{
+    margin-bottom: 135px;
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #303030;
+    margin-top: 500px;
+}
+
+
+.stul11{
+    margin-left: 50px;
+    width: 173px;
+    height: 236px;
+    left: 194.56px;
+    top: 1571px;
+}
+
+
+.standart{
+    margin-left: -30px;
+    font-weight: 300;
+    font-size: 18px;
+    text-align: center;
+    color: #303030;
+}
+
+
+.dollor{
+    margin-left: -30px;
+    margin-bottom: 224px;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    color: #303030;
+}
+
+
+.divn{
+    width: 342px;
+    height: 410px;
+    left: 542px;
+    top: 1521px;
+    margin-left: -35px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px 2px rgba(0, 0, 0, 0.08);
+}
+
+
+.stul111{
+    margin-left: 85px;
+    width: 173px;
+    height: 236px;
+    left: 194.56px;
+    top: 1571px;
+}
+
+
+.standartt{
+    font-weight: 300;
+    font-size: 18px;
+    text-align: center;
+    color: #303030;
+}
+
+
+.dollorrr{
+    margin-top: -37px;
+    margin-left: 70px;
+    margin-bottom: 144px;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    color: #303030;
+}
+
+
+.pul{
+    margin-left: 100px;
+    
+    font-weight: 300;
+    font-size: 14px;
+    
+    color: #A2A2A2;
+}
+
+
+.premier{
+    margin-top: 90px;
+    border: none;
+    color: #ffffff;
+    background: #D5B19B;
+    border-radius: 10px;
+    padding: 5px 50px;
+    font-weight: 300;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.buttomm{
+    margin-top: -127px;
+    margin-left: 88px;
+}
+
+
+.pull{
+    margin-left: 70px;
+    font-weight: 300;
+    font-size: 14px;
+    color: #A2A2A2;
+}
+
+
+.domaloq{
+    margin-top: -740px;
+    margin-left: 320px;
+    width: 64.86px;
+    height: 64.86px;
+    left: 909.28px;
+    top: 1562.84px;
+    transform: matrix(-0.02, -1, -1, 0.02, 0, 0);
+}
+
+.foiz{
+  position: absolute;
+  margin-left: 335px;
+  margin-top: -393px;
+  font-weight: 500;
+    font-size: 18px;
+    color: #fff8f8;
+    transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+
+.domaloqq{
+    margin-top: -750px;
+    margin-left: 250px;
+    width: 64.86px;
+    height: 64.86px;
+    left: 909.28px;
+    top: 1562.84px;
+    transform: matrix(-0.02, -1, -1, 0.02, 0, 0);
+}
+
+
+.foiza{
+    position: absolute;
+    margin-left: 266px;
+    margin-top: -400px;
+    font-size: 18px;
+    color: #ffffff;
+    transform: matrix(1, 0, -0.01, 1, 0, 0);
+}
+
+
+.divnn{
+    margin-left: -40px;
+}
+
+
+.megalolo{
+    margin-left: 30px;
+    margin-bottom: 192px;
+    background: transparent;
+    padding: 5px 58px;
+    border: 0.5px solid #303030;
+    border-radius: 10px;
+}
+
+
+.akogo{
+    width: 552px;
+    height: 454px;
+    margin-left: -110px;
+}
+
+
+.interes{
+    margin-top: 104px;
+    margin-left: 30px;
+    font-weight: 400;
+    font-size: 38px;
+    color: #303030;
+}
+
+
+.kostichka{
+    margin-left: 330px;
+    margin-top: -270px;
+    font-weight: 400;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    color: #303030;
+}
+
+
+.nkname{
+    padding: 11px 60px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+
+.bobo{
+    margin-left: 650px;
+    margin-top: -170px;
+}
+
+
+.jaguar{
+    margin-left: -180px;
+    margin-bottom: 180px;
+    width: 1550px;
+    height: 995px;
+}
+
+
+.transformer{
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+    margin-left: 222px;
+    margin-top: 110px;
+}
+
+
+.razveshit{
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.vasmestim{
+    font-weight: 400;
+    font-size: 30px;
+    color: #303030;
+}
+
+
+.google{
+    margin-left: -44px;
+    margin-top: -170px;
+}
+
+
+.logolo{
+    margin-left: 700px;
+    margin-top: -900px;
+}
+
+
+.vestm{
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.zachiver{
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.logoss{
+    margin-left: 700px;
+    margin-top: -790px;
+}
+
+
+.gaguar{
+    margin-left: -44px;
+    margin-top: -170px;
+}
+
+
+.vestaman{
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.valentina{
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.jamshid{
+    margin-left: -44px;
+    margin-top: -128px;
+}
+
+
+.logomega{
+    margin-left: 700px;
+    margin-top: -690px;
+}
+
+
+.uninr{
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.untiunr{
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.jama{
+    margin-left: -44px;
+    margin-top: -208px;
+}
+
+
+.universal{
+    margin-left: 700px;
+    margin-top: -600px;
+}
+
+
+.mebel{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 130px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+
+.moment{
+    margin-top: 172px;
+    margin-bottom: 190px;
+    display: flex;
+    padding: 9px 43px;
+    border: 0.5px solid #303030;
+    border-radius: 10px;
+    font-weight: 200;
+    font-size: 18px;
+    color: #303030;
+    background: transparent;
+}
+
+
+.shiroliy{
+    margin-top: 43px;
+    margin-bottom: 43px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.troble{
+    margin-top: 140px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+
+.blak{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.imgdiv{
+    margin-top: 100px;
+    margin-bottom: 135px;
+}
+
+
+.koko1{
+    margin-top: 190px;
+    margin-left: 20px;
+}
+
+
+.koko2{
+    margin-top: 300px;
+}
+
+
+.koko3{
+    margin-left: 700px;
+    margin-top: -1200px;
+}
+
+
+.fix{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 110px;
+}
+
+
+.otniziv{
+    margin-top: 200px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+
+.makhal{
+    font-weight: 400;
+    font-size: 24px;
+    color: #303030;
+}
+
+
+.jolo{
+    margin-left: 200px;
+    margin-top: -110px;
+    margin-bottom: 105px;
+}
+
+
+.milita{
+    font-weight: 300;
+    font-size: 16px;
+    color: #303030;
+    margin-bottom: 150px;
+}
+
+
+.komnata{
+    margin-top: 50px;
+    
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 48px;
+    color: #303030;
+}
+
+
+.slesh{
+    margin-top: 30px;
+    margin-bottom: 150px;
+    
+}
+
+.kometa{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 90px;
+}
+
+
+.dobro{
+    font-weight: 400;
+    font-size: 16px;
+    color: #303030;
+}
+
+
+.privet{
+    padding: 5px 28px;
+    border: none;
+    background: #D5B19B;
+    border-radius: 17px;
+    margin-bottom: 210px;
+}
+
+
+.bibgarden{
+    margin-bottom: -140px;
+}
+
+
+.privet2{
+    padding: 5px 28px;
+    background: #FFFFFF;
+    border-radius: 17px;
+}
+
+
+.kseres1{
+    margin-left: -40px;
+    margin-top: 100px;
+}
+
+
+.kseres2{
+    margin-top: -650px;
+    margin-left: 220px;
+}
+
+
+.kseres3{
+    margin-left: 300px;
+    margin-top: -240px;
+}
+
+
+.dgbnsezrb{
+    margin-top: 120px;
+}
+
+
+.sasasasa{
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.naverx{
+    margin-left: -90px;
+    margin-top: 80px;
+}
+.df2{
+    display: flex;
+}
+.qiyshiq{
+    margin-top: 40px;
+}
+
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+
+    .boot {
+        position: absolute;
+        margin-left: -30px;
+        width: 190px;
+        height: 371px;
+        left: 34px;
+        top: 267px;
+    }
+    .boots {
+        margin-left: 530px;
+        position: absolute;
+        width: 183px;
+        height: 371px;
+        left: -393px;
+        top: 267px;
+    }
+    .misiss{
+        position: absolute;
+        margin-top: 230px;
+        font-weight: 600;
+        font-size: 22px;
+        color: #303030;
+
+    }
+    .megamen {
+        position: absolute;
+        font-weight: 500;
+        font-size: 11px;
+        color: #303030;
+        top: 325px;
+    }
+    .soulll {
+        position: absolute;
+        margin-top: 85px;
+        width: 296px;
+        height: 127px;
+        left: 17px;
+        top: 419px;
+    }
+    .btnprimary {
+        margin-top: 312px;
+        border: none;
+        color: #ffffff;
+        margin-left: 2px;
+        padding: 4px 17px;
+        background: linear-gradient(92.55deg, #D5B19B 10.05%, rgba(213, 177, 155, 0.71) 92.39%);
+        border-radius: 10px;
+    }
+    .gleman {
+        position: absolute;
+        margin-top: 60px;
+        margin-left: -561px;
+        width: 140px;
+        height: 180px;
+        left: 595px;
+        top: 404px;
+    }
+    .glemannn {
+        position: absolute;
+        margin-top: 55px;
+        margin-left: -854px;
+        width: 140px;
+        height: 180px;
+        left: 1018px;
+        top: 405px;
+    }
+    .boblom{
+        text-align: center;
+        position: absolute;
+        top: 700px;
+    }
+    .boblomm{
+        position: absolute;
+        top: 700px;
+        left: 86px;
+    }
+    .boblommm{
+        position: absolute;
+        top: 700px;
+        left: 160px;
+    }
+    .boblommmm{
+        position: absolute;
+        top: 700px;
+        left: 240px;
+    }
+    .poluchit {
+        margin-bottom: 136px;
+        font-weight: 500;
+        font-size: 30px;
+        text-align: center;
+        color: #303030;
+        margin-top: 455px;
+    }
+    
+    .standart {
+        margin-left: 97px;
+        font-weight: 300;
+        font-size: 18px;
+        display: flex;
+        color: #303030;
+    }
+    .stul11 {
+        margin-left: 68px;
+        width: 173px;
+        height: 236px;
+        left: 194.56px;
+        top: 1571px;
+    }
+    .dollor {
+        margin-left: 7px;
+        font-weight: 300;
+        font-size: 14px;
+        text-align: center;
+        color: #303030;
+    }
+    .factulin{
+        padding: 5px 20px;
+        
+    }
+    .domaloq {
+
+        margin-top: -739px;
+        margin-left: 265px;
+        width: 64.86px;
+        height: 64.86px;
+        left: 909.28px;
+        top: 1562.84px;
+        transform: matrix(-0.02, -1, -1, 0.02, 0, 0);
+    }
+    .foiz {
+        position: absolute;
+        margin-left: 281px;
+        margin-top: -393px;
+        font-weight: 500;
+        font-size: 18px;
+        color: #fff8f8;
+        transform: matrix(1, 0, -0.01, 1, 0, 0);
+    }
+    .premier{
+        margin-bottom: 10px;
+    }
+    
+    .interes {
+        margin-top: 17px;
+        margin-left: 30px;
+        font-weight: 400;
+        font-size: 19px;
+        color: #303030;
+        text-align: center;
+    }
+    .akogo {
+        width: 416px;
+        height: 281px;
+        margin-left: -110px;
+    }
+    .kostichka {
+        margin-left: 23px;
+        margin-top: 16px;
+        font-weight: 500;
+        font-size: 14px;
+        color: #303030;
+    }
+    .nkname {
+        padding: 6px 30px;
+        background: #FFFFFF;
+        border-radius: 10px;
+        margin-left: -610px;
+        margin-top: 220px;
+        margin-bottom: 30px;
+    }
+
+    .jaguar {
+        margin-left: -180px;
+        margin-bottom: 180px;
+        width: 484px;
+        height: 435px;
+    }
+    .transformer {
+        font-weight: 500;
+        font-size: 17px;
+        color: #303030;
+        margin-left: 40px;
+        margin-top: -603px;
+    }
+    .vasmestim {
+        margin-left: -652px;
+        margin-top: 361px;
+        font-size: 18px;
+    }
+    .razveshit {
+        margin-left: -656px;
+        margin-top: 27px;
+        font-size: 14px;
+    }
+    .vestm{
+        margin-left: -652px;
+        margin-top: 361px;
+        font-size: 18px;
+    }
+    .zachiver {
+        margin-left: -654px;
+        margin-top: 28px;
+        font-size: 14px;
+    }
+
+    
+    
+}
